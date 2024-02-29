@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillogoGomb", "VillogoGomb\VillogoGomb.csproj", "{5658DA96-F8B0-4F3F-A63E-6C2F57F6375C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4feladat", "3.4feladat\3.4feladat.csproj", "{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5658DA96-F8B0-4F3F-A63E-6C2F57F6375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5658DA96-F8B0-4F3F-A63E-6C2F57F6375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5658DA96-F8B0-4F3F-A63E-6C2F57F6375C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
