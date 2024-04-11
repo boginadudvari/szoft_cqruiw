@@ -14,5 +14,6 @@ namespace hajos_kviz
             BackColor = Color.Gray;
             BorderStyle = BorderStyle.None;
             Multiline = true;
+        }
     }
 }

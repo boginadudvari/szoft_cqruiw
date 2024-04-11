@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillogoGomb", "VillogoGomb\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.4feladat", "3.4feladat\3.4feladat.csproj", "{447ACDD4-A8D8-43E5-BCB0-4C8C28C016B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajos_kviz", "hajos_kviz\hajos_kviz.csproj", "{B58E8E2E-0EB8-43B7-9C02-E1F89E8005C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hajos_kviz", "hajos_kviz\hajos_kviz.csproj", "{B58E8E2E-0EB8-43B7-9C02-E1F89E8005C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "europian_countries", "europian_countries\europian_countries.csproj", "{1426254E-171C-46C8-9B79-21DCA3278C72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B58E8E2E-0EB8-43B7-9C02-E1F89E8005C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58E8E2E-0EB8-43B7-9C02-E1F89E8005C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58E8E2E-0EB8-43B7-9C02-E1F89E8005C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1426254E-171C-46C8-9B79-21DCA3278C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1426254E-171C-46C8-9B79-21DCA3278C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1426254E-171C-46C8-9B79-21DCA3278C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1426254E-171C-46C8-9B79-21DCA3278C72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

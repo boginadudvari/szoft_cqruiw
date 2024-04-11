@@ -10,7 +10,7 @@ namespace hajos_kviz
     {
         public Következő()
         {
-            mou
+     
         }
     }
 }
